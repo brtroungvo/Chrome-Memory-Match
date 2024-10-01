@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Memory Match Game",
+    "description": "A fun memory match game to play in your browser!",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "images/hello_extensions.png"
+    }
+  }
